@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Julian
-- 👀  I’m interested in clean code
-- 🌱  I’m a junior Full Stack Developer
+- 👀  MyFavJSTech = { React, NodeJS, Mongo, ExpressJS, GraphQL }
+- 🌱  Junior Full Stack Developer
 - 📫  Reach me at  julian@ultrix.org
 
